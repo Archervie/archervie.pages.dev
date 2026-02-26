@@ -11,6 +11,12 @@
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
   },
+  "overrides": {
+    "serve-handler": {
+      "minimatch": "^3.1.2",
+      "path-to-regexp": "^3.3.0"
+    }
+  },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
