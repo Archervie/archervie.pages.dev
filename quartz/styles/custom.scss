@@ -1,14 +1,92 @@
 @use "./base.scss";
 
-// put your custom CSS here!
 @font-face {
-  font-family: 'Terminus (TTF)';
-  src: url('/static/TerminusTTF-4.49.3.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+  font-family: "VGA8x16";
+  src: url("/static/WebPlus_IBM_VGA_8x16.woff") format("woff");
+  font-display: swap;
 }
 
-code {
+html {
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
   -webkit-font-smoothing: none;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: unset;
+  text-rendering: crispEdges;
+  image-rendering: pixelated;
+  scrollbar-gutter: stable;
+}
+
+body {
+  font-family: "VGA8x16", monospace;
+  font-size: 16px;
+  line-height: 16px;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: unset;
+  text-rendering: crispEdges;
+  image-rendering: pixelated;
+}
+
+.page > #quartz-body {
+  display: grid;
+  grid-template-columns: 320px 704px 320px;
+  gap: 0;
+  column-gap: 0;
+  row-gap: 0;
+  justify-content: center;
+  transform: translateZ(0);
+}
+
+.center {
+  width: 704px;
+  max-width: 704px;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+.page-title a,
+header h1 a,
+.header h1,
+.search-button,
+#search-container input {
+  font-family: "VGA8x16", monospace !important;
+  line-height: 16px;
+  font-smooth: never;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: unset;
+}
+
+h1,
+.page-title a,
+header h1 a,
+.header h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+.page-title a,
+header h1 a,
+.header h1 {
+  text-decoration: none;
+}
+
+/* Targets the input field you type into */
+.search-container input,
+.search-button p,
+.search-layout .result-card h3,
+.search-layout .preview-container {
+  font-family: "VGA8x16", monospace !important;
+  font-size: 16px !important;
+  -webkit-font-smoothing: none;
+  text-rendering: crispEdges;
+}
+
+/* Targets the placeholder text 'Search for something' */
+.search-container input::placeholder {
+  font-family: "VGA8x16", monospace !important;
+  color: var(--gray);
 }

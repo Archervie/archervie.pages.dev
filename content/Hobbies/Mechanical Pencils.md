@@ -1,15 +1,16 @@
 Mechanical pencils. They're beautiful and I love them! This page is meant for me to show my collection and list the pencils I want to get at some point in the future (and also to express my love for these beautiful writing utensils)!
 
-**Why mechanical pencils?**
+**Why mechanical pencils?**  
 I still think the pencil is superior to the pen. While I love pens, don't get me wrong (I have my own mini collection of them!), I largely prefer pencils over pens. I believe in mistakes, that making mistakes is crucial to not only learning, but also growing as an individual. Pens force you to be perfect; pencils don't! As per why mechanical over wooden, I just like the feel of mechanical pencils, and their practicality. 
 
 # My Collection
 Here is my collection as of February of 2026:
 Model Name | Lead Size | Color | Notes
-- Tombow Zoom 505 | 0.5 mm | Blue | Originally had black, no clue where it went
+- Tombow Zoom 505 | 0.5 mm | Black
+- Tombow Zoom 505 | 0.5 mm | Blue 
 - rOtring 600 | 0.5 mm | Black
 - Pentel Graphgear 500 | 0.5 mm | Black
-- Pentel Graphgear 1000 | 0.5 mm | Black | Recently broke, need to rebuy
+- Pentel Graphgear 1000 | 0.5 mm | Black
 - Pentel Sharp Kerry | 0.5 mm | Red
 - Pentel P205 | 0.5 mm | Black
 - Pentel P207 | 0.7 mm | Silver
@@ -38,6 +39,7 @@ Of course, I don't own *all* the pencils that I wish I did. Here are some that I
 - Zebra M701 | 0.5 mm | Stainless Steel
 - Pilot Dr. Grip | 0.5 mm | Any
 - Pentel PS1045 | 0.5 mm | Stainless Steel
+- Kaweco Brass Sport | 0.5 mm (Will be modded) | Brass
 
 # My Favorites
 Truth be told, I don't really have favorites. It's hard to choose which ones I'd consider my "favorite." There are just a lot of really good options, and I love all my pencils equally! That said, I do have a strong liking for the Tombow Zoom 505 due to both its design, but also just because it has the weight and feel of a pen without *being* a pen. Its grip is also decent. That said, I love all my pencils equally!!
