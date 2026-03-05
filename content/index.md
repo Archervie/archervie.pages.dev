@@ -27,6 +27,7 @@ Here are some of the most recently updated and important pages:
 - [[About Me|This]] is my simple about me page. 
 - View my [[My Mechanical Pencils Collection|my mechanical pencil collection]]!
 
+---
 ## Contact 
 
 If you ever need to contact me, you can use the following social profiles of mine: 
@@ -44,8 +45,3 @@ If you ever need to contact me, you can use the following social profiles of min
 **Other Media Profiles**  
 - [MAL](https://myanimelist.net/profile/a5v): a5v
 - [VNDB](https://vndb.org/u336495): a5v
-
----
-## Credit
-
-As you may already know, this site was created via Quartz, so I extend my thanks to [the Quartz developers](https://github.com/jackyzha0/quartz).
