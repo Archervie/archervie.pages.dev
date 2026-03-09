@@ -20,12 +20,18 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "local",
+      // fontOrigin: "local",
+      fontOrigin: "googleFonts",
       cdnCaching: true,
+      // typography: {
+      //   header: "VGA8x16, monospace",
+      //   body: "VGA8x16, monospace",
+      //   code: "VGA8x16, monospace",
+      // },
       typography: {
-        header: "VGA8x16, monospace",
-        body: "VGA8x16, monospace",
-        code: "VGA8x16, monospace",
+        header: "Fira Code, monospace",
+        body: "Fira Code, monospace",
+        code: "Fira Code, monospace"
       },
       colors: {
         lightMode: {
