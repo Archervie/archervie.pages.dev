@@ -29,8 +29,8 @@ const config: QuartzConfig = {
       //   code: "VGA8x16, monospace",
       // },
       typography: {
-        header: "Fira Code, monospace",
-        body: "Fira Code, monospace",
+        header: "Inter, monospace",
+        body: "Inter, monospace",
         code: "Fira Code, monospace"
       },
       colors: {
