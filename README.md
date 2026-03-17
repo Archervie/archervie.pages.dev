@@ -1,17 +1,10 @@
-# Quartz v4
+# My Website
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Hi! I'm Dylan. The website is just my digital garden, where I post my notes and thoughts. 
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+This the GitHub repo for that website. You can find it at https://archervie.pages.dev
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+# Credit
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+This website was created via Quartz: https://github.com/jackyzha0/quartz
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
