@@ -1,10 +1,9 @@
 If you ever need to contact me, you can use the following social profiles of mine: 
 
 ## Professional Profiles   
-- [(Web) Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=dyquezada06@gmail.com): dyquezada06@gmail.com
-- [(Mail-to): Gmail](mailto:dyquezada06@gmail.com?): dyquezada06@gmail.com
+- [Email](mailto:dyquezada06@gmail.com?): dyquezada06@gmail.com
 - [GitHub](https://github.com/Archervie): Archervie
-- [LinkedIn](https://www.linkedin.com/in/dylan-quezada-03b68a285/)
+- [LinkedIn](https://www.linkedin.com/in/dylan-quezada-03b68a285/): Dylan Quezada
 
 ## Social Media
 - [Discord](https://discord.com): archlvi

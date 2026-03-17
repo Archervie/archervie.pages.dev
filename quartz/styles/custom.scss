@@ -43,22 +43,20 @@ body {
 //   box-sizing: border-box;
 // }
 
-/* Default Mobile-First Styles */
 .page > #quartz-body {
   display: flex;
-  flex-direction: column; /* Stack columns vertically */
+  flex-direction: column;
   width: 100%;
   transform: translateZ(0);
 }
 
 .center {
-  width: 100%; /* Fill the screen */
+  width: 100%; 
   max-width: 100%;
   padding: 16px;
   box-sizing: border-box;
 }
 
-/* Desktop Styles (Screens wider than 1344px) */
 @media (min-width: 1344px) {
   .page > #quartz-body {
     display: grid;
@@ -93,7 +91,7 @@ header h1 a,
 }
 
 h2 {
-  font-size: 16px;
+  font-size: 24px;
 }
 
 .page-title a,
@@ -102,7 +100,6 @@ header h1 a,
   text-decoration: none;
 }
 
-/* Targets the input field you type into */
 .search-container input,
 .search-button p,
 .search-layout .result-card h3,
@@ -113,8 +110,49 @@ header h1 a,
   text-rendering: crispEdges;
 }
 
-/* Targets the placeholder text 'Search for something' */
 .search-container input::placeholder {
   font-family: "VGA8x16", monospace !important;
   color: var(--gray);
+}
+
+.explorer, 
+.graph, 
+.toc, 
+#toc-content,
+.backlinks,
+button#toc-button {
+  font-family: "VGA8x16", monospace !important;
+  -webkit-font-smoothing: none;
+  text-rendering: crispEdges;
+}
+
+.explorer li a, 
+.toc li a, 
+.graph-view-container text {
+  font-family: "VGA8x16", monospace !important;
+}
+
+.graph-view-container text {
+  font-size: 14px;
+}
+
+.graph h3,
+.toc h3,
+.backlinks h3,
+#toc-button span,
+.explorer h3 {
+  font-family: "VGA8x16", monospace !important;
+  font-size: 16px !important;
+  text-transform: none;
+}
+
+.graph-view-container svg text {
+  font-family: "VGA8x16", monospace !important;
+  font-smooth: never;
+  -webkit-font-smoothing: none;
+}
+
+.sidebar .desktop-only h3,
+.sidebar .desktop-only span {
+  font-family: "VGA8x16", monospace !important;
 }
