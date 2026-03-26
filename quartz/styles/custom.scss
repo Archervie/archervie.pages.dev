@@ -1,3 +1,28 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+h1 {
+  text-align: center;
+}
+
+.small_text {
+  text-align: center;
+  font-style: italic;
+  font-size: small;
+}
+
+.before-body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1rem 0;
+}
+
+.search {
+  margin: 0 auto;
+  flex-grow: 0;
+  width: 100%;
+  max-width: 500px;
+  padding: 5mm;
+}
