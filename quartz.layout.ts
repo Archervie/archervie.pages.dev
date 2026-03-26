@@ -1,19 +1,12 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-import { Babel } from "./quartz/components"
-
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [Component.Babel()],
-  footer: Component.Footer({
-    links: {
-      // GitHub: "https://github.com/jackyzha0/quartz",
-      // "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+  footer: Component.Footer({links: {}}),
 }
 
 // components for pages that display a single page (e.g. a single note)
