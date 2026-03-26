@@ -13,10 +13,14 @@ Just kidding. Considering you're here, you probably already know me. If you don'
 
 Well then, as I said, this is just a corner I claimed in Jorge Luis Borge's [**Library of Babel**](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf). You can read through all my notes, ideas, and what not here. 
 
+---
+
 # What Is Contained Here?
 You're probably curious as to what kinds of notes are present, though you should have a clear picture by just probing around. 
 
 Most of what I write here are just my thoughts related to tech - particularly, anything to do with low-level computing or the CIS world. There's other stuff too, though.
+
+---
 
 # Where Do I Go?...
 If you're lost, that's fine! You can use these links to go to some pages to get started:
