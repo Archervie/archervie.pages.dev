@@ -9,7 +9,8 @@ const PageTitle: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps)
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href="/">
-        <img src="/static/logo.png" alt={title} style={{ height: "10rem" }} />
+        {/* <img src="/static/logo.png" alt={title} style={{ height: "10rem" }} /> */}
+        <p>Home</p>
       </a>
     </h2>
   )

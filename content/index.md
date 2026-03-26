@@ -1,9 +1,13 @@
 ---
 title: A Corner in the Library of Babel
+description: Hi! I'm Dylan! Welcome to my... corner - A Corner in the Library of Babel. You can call it the Corpusitory if you'd like.
 aliases: 
 - home
 - main 
 ---
+
+![](static/home.png)
+
 Hi! I'm **Dylan!** Welcome to my... corner - **A Corner in the Library of Babel**. You can call it the Corpusitory if you'd like.
 
 # Where Am I?
@@ -23,7 +27,7 @@ Most of what I write here are just my thoughts related to tech - particularly, a
 ---
 
 # Where Do I Go?...
-If you're lost, that's fine! You can use these links to go to some pages to get started:
+If you're lost, that's fine! You can use the explorer or these links to go to some pages to get started:
 
 - About Me: [[About Me]]
 - Contacts: [[Contacts]]
