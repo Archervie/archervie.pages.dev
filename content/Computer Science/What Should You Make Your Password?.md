@@ -9,6 +9,8 @@ Good question, even if you didn't ask! Passwords are as simple as you might imag
 
 Needless to say, passwords are important. If someone else knows your password, they can easily identify as you, even if they're not. The best way to prevent this? I'll show you.
 
+---
+
 # Password Requirements
 This guide follows the [NIST 2026 Password Guidelines](https://pages.nist.gov/800-63-3/sp800-63b.html). While you can read the entire document yourself (and if you have the technical knowledge, you should!), this is meant to be an overt simplification of that document. 
 
@@ -55,5 +57,6 @@ If you follow all of this, you should be fine!
 ---
 
 # What's the Point?
+"What's the point in all this anyway?" is a perfectly valid question - but, most of it boils down to preventing data breaches from being as critical as they can be. 
 
- 
+It's important to protect yourself online just as much as in-person; use proper password guidelines!!
